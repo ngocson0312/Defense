@@ -1,0 +1,12 @@
+private void Starting_Enter() { } 
+private void Starting_Update() { } 
+private void Starting_Exit() { } 
+private void Playing_Enter() { } 
+private void Playing_Update() { } 
+private void Playing_Exit() { } 
+private void Wining_Enter() { } 
+private void Wining_Update() { } 
+private void Wining_Exit() { } 
+private void Gameover_Enter() { } 
+private void Gameover_Update() { } 
+private void Gameover_Exit() { } 

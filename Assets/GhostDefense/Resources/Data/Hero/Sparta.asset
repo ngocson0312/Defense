@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5db17106e3e5564d860a77854fdf708, type: 3}
+  m_Name: Sparta
+  m_EditorClassIdentifier: 
+  id: 1669622255588763560300
+  thumb: {fileID: 2824037449907585288, guid: 23583109680bbf740b3857e64e6bc2ab, type: 3}
+  hp: 40
+  damage: 3
+  moveSpeed: 4.2
+  knockbackForce: 5
+  knockbackTime: 0.2
+  invincibleTime: 0.5
+  runSpeed: 5
+  atkRate: 0.1
+  dashRate: 0.1
+  dashDist: 3
+  ultiEnergy: 40
+  defense: 0.4
+  luck: 0.4
+  maxLevel: 50
+  level: 1
+  playerLevel: 1
+  xp: 0
+  lvUpXpRequired: 50
+  point: 0
+  xpUpRate: 20
+  hpUpRate: 10
+  dmgUpRate: 1.5
+  defUpRate: 1.5
+  luckUpRate: 0.3
+  pointUpRate: 5
+  pointRequired: 2
+  pointRequiredUp: 5
+  xpRequireUpFactor: 2
+  pointReceiveUpFactor: 2
+  pointRequireUpFactor: 2
+  hpUpFactor: 2
+  dmgUpFactor: 6
+  defUpFactor: 10
+  luckUpFactor: 2

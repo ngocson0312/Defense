@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c955a72a49d8d46bf551642802b744, type: 3}
+  m_Name: AI Stat 6
+  m_EditorClassIdentifier: 
+  id: 1669647175218216496400
+  thumb: {fileID: 141893073332109768, guid: 191eec45329f3cd4f8e55dfd24942db9, type: 3}
+  hp: 8
+  damage: 3
+  moveSpeed: 3
+  knockbackForce: 8
+  knockbackTime: 0.2
+  invincibleTime: 0.35
+  atkRate: 1
+  dashRate: 0.15
+  ultiRate: 0.05
+  atkTime: 1
+  ultiTime: 3
+  dashTime: 3
+  minXpBonus: 2
+  maxXpBonus: 7
+  minEnergyBonus: 5
+  maxEnergyBonus: 15
+  hpUpRate: 5
+  dmgUpRate: 5
+  ultiUpRate: 0.25
+  hpUpFactor: 2
+  dmgUpFactor: 5
+  ultiRateUpFactor: 4

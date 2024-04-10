@@ -1,0 +1,7 @@
+Attack 4-6 7
+Dash1 7-8 5
+Dash2 9-10 5
+Dead 15-18 7
+GotHit 11-14 7
+Ultimate 4-5 7
+Walk 0-3 5

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4301179beb13504cacd1c91b064af4c, type: 3}
+  m_Name: Collectable Item Data
+  m_EditorClassIdentifier: 
+  items:
+  - spawnRate: 1
+    amount: 5
+    collectablePool: 1669824947:1149:747400
+  - spawnRate: 0.15
+    amount: 1
+    collectablePool: 1669824952:941836:620334
+  - spawnRate: 0.1
+    amount: 1
+    collectablePool: 1669824963:903236:889333
